@@ -34,3 +34,4 @@ __pycache__/
 .venv/
 venv/
 .env
+work/notebooks/w03_data_contract.ipynb
